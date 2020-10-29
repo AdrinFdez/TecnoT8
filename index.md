@@ -51,7 +51,7 @@ Este es el calendario de vacaciones mayores que recogemos en TecnoT8 sin incluir
 
 Como deber de empresario 
 
-El empresario asume una serie de obligaciones en la relación laboral.
+- El empresario asume una serie de obligaciones en la relación laboral.
 
 ***
 
