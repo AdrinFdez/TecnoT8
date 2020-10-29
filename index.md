@@ -24,7 +24,7 @@ Gracias por elegirnos.
 
 ***
 
-### Equipos
+### Equipo
 
 - Morante Caraballo, Abel
 
