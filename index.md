@@ -47,9 +47,28 @@ Este es el calendario de vacaciones mayores que recogemos en TecnoT8 sin incluir
 
 ***
 
-### Derechos y Debéres
+### Derechos y Deberes
+
+Como deber de empresario 
+
+El empresario asume una serie de obligaciones en la relación laboral.
 
 ***
+
+Como deberes de nuestros trabajadores se encuentran: 
+
+- Cumplir con las obligaciones concretas del puesto de trabajo, de conformidad con lo establecido.
+
+- Cumplir las medidas de seguridad e higiene que se adopten y con las medidas de prevención de riesgos laborales por lo que se refiere a las obligaciones de los trabajadores.
+
+- A cumplir las órdenes e instrucciones del empleador, siempre que las órdenes o instrucciones no sean abusivas o ilegítimas.
+
+- No concurrir con la actividad de la empresa sin entrar un perjuicio con la persona del empleador.
+
+- Contribuir a la mejora de la productividad. 
+
+***
+
 
 ### Horarios
 
@@ -63,9 +82,27 @@ Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algú
 
 ### Normas de Convivencia
 
+- Escuchar y respetar las ideas y opiniones de los demás, permitiendo una interacción equitativa y justa para todos
+
+- Propender por el cumplimiento de normas como medio para una convivencia productiva
+
+- Respetar a los demás como individuos y valorar su conocimiento y potencial como miembros y compañeros de trabajo
+
+- Brindar un trato gentil, respetuoso y amable con los compañeros de trabajo
+
+- No divulgar información privada y personal de los compañeros de trabajo
+
+- Respetar la intimidad y la privacidad, y no utilizar las claves de ingreso de otros compañeros al sistema de la empresa
+
+- Evitar lanzar juicios y generar comentarios que pueden afectar el equipo de trabajo
+
+- Ser solidarios ante situaciones que no tengan que ver con nuestras funciones específicas pero que estamos en la capacidad de brindar apoyo para que el compañero supere la situación.
+
+- Respetar y valorar el tiempo de los demás, evitando interrumpir innecesariamente las labores de todos
+
 ***
 
-### ¿Como se realiza el trabajo?
+### ¿Cómo se realiza el trabajo?
 
 ***
 
