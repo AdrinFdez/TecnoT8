@@ -74,3 +74,14 @@ Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algú
 ***
 
 ### Contacto
+
+Escuela Técnica Superior de Ingeniería Informática
+
+Universidad de Sevilla
+
+Av. Reina Mercedes s/n,
+41012 Sevilla
+
+Teléfono: 954556817
+
+secretaria-eii@listas.us.es
