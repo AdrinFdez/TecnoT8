@@ -12,19 +12,40 @@ Gracias por elegirnos.
 
 ***
 
-
-
-***
-
 ### Espítiru y motivaciones
 
+*   Misión: Usar nuestros conocimientos para que la persona de a pié pueda disfrutar de la mejor experiencia en nuestro mundo.
+
+*   Ejecución: Lograr un entorno cómodo y productivo a partes iguales. Buscar el balance entre ambas. Pensar siempre en la comodidad del usuario
+
+*   Resultados: Lograr que el producto final sea un orgullo para todos. Somos un equipo y nuestro objetivo es el mismo.
+
 ***
 
-### Equipo Directivo
-
-Flor: Recursos Humanos
+### Equipos
 
 
+***
+
+#### Recursos Humanos
+
+Florentina
+
+***
+
+### Organización
+
+***
+
+### Vacaciones
+
+Este es el calendario de vacaciones mayores que recogemos en TecnoT8 sin incluir las fiestas de cada región.
+
+![Calendario](/assets/images/calendario.png)
+
+***
+
+### Derechos y Debéres
 
 ***
 
@@ -35,3 +56,19 @@ Entendemos que en la vida tienes algo más que hacer a parte de trabajar por eso
 ¡Eso si!, deberás cumplir las horas por día que estipula tu contrato y chequear tu acceso a través de IntraTime.
 
 Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algún cambio en la distribución, contacta con Flor que estará encantada de atenderte.
+
+***
+
+### Normas de Convivencia
+
+***
+
+### ¿Como se realiza el trabajo?
+
+***
+
+### Instalaciones
+
+***
+
+### Contacto
