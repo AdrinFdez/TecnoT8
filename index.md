@@ -84,7 +84,7 @@ Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algú
 
 ***
 
-### ¿Como se realiza el trabajo?
+### ¿Cómo se realiza el trabajo?
 
 ***
 
