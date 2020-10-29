@@ -112,8 +112,6 @@ Queremos que nuestras oficinas sean un espacio al que quieras venir a trabajar a
 
 Es verdad que fomentamos el uso del teletrabajo pero debemos tener un sito alternativo al que acudir si es necesario. La comodidad de casa puede resultar contraproducente por eso, tu eliges que entorno te beneficia más y cuando.
 
-![Oficina 2](/assets/images/office2.png)
-
 ***
 
 ### Contacto
