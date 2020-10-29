@@ -44,15 +44,15 @@ Gracias por elegirnos.
 
 Nuestra empresa se divide en:
 
-Director@ general: Define objetivos, planifica, organiza y toma las decisiones de la empresa.
+* Director@ general: Define objetivos, planifica, organiza y toma las decisiones de la empresa.
 
-Director@ financiero: Gestiona las tareas administrativas,financieras, informes, presupuestos e inversiones.
+* Director@ financiero: Gestiona las tareas administrativas,financieras, informes, presupuestos e inversiones.
 
-Director@ de producción: Gestiona el tiempo, supervisa el trabajo de los empleados, gestiona los recursos materiales y técnicos.
+* Director@ de producción: Gestiona el tiempo, supervisa el trabajo de los empleados, gestiona los recursos materiales y técnicos.
 
-Director@ de recursos humanos: Realiza el reclutamiento y selección de los trabajadores y los forma, gestiona la comunicación interna, motiva y coordina los equipos.
+* Director@ de recursos humanos: Realiza el reclutamiento y selección de los trabajadores y los forma, gestiona la comunicación interna, motiva y coordina los equipos.
 
-Director@ de marketing: Diseña estrategias, ofertas, servicios, elabora presupuestos en su departamento y gestiona las comunicaciones en redes sociales.
+* Director@ de marketing: Diseña estrategias, ofertas, servicios, elabora presupuestos en su departamento y gestiona las comunicaciones en redes sociales.
 
 
 Organigrama:
