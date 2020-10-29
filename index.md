@@ -102,6 +102,16 @@ Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algú
 
 ### ¿Cómo se realiza el trabajo?
 
+La incorporación al puesto de trabajo requiere algunas actividades previas y necesarias:
+
+- Rellenar la “Tarjeta de incorporación”, documento interno donde están todos los datos personales necesarios para la relación laboral.
+
+- Copia de los siguientes documentos personales: documento de identidad, afiliación a la Seguridad Social, modelo 145, certificado negativo de delitos de naturaleza sexual y cualquier otro de carácter oficial que acredite profesional y/o formativamente.
+
+-  Formalizar el contrato de trabajo que recoge el lugar de trabajo, categoría, horario y salario, así como otras condiciones más específicas de Tecno8 con su personal.
+
+- Atender a la formación inicial, facilitada por sus responsables inmediatos, imprescindible para desempeñar el puesto de trabajo y sus responsabilidades.
+
 ***
 
 ### Instalaciones
