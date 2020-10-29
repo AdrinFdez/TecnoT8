@@ -2,9 +2,17 @@
 layout: default
 ---
 
-hello
+En esta nueva era en la que es imperativo tener un ordenador para poder trabajar, el público generalmente desconoce las especificaciones técnicas que debe tener un dispositivo que se ajuste a sus necesidades y no pague de más por funciones o capacidades que no utilizará en la vida. Al igual, la configuración de los mismos no es tarea fácil.
 
-### Introducción
+Desde TecnoT8 queremos llevar nuestros conocimientos en el mundo de la informática a un público no formado con la idea de que puedan disfrutar al máximo de sus ordenadores.
+
+Si acabas de incorporarte a TecnoT8, Te damos la bienvenida. Queremos que este manual sea una forma sencilla para que puedas integrarte lo mejor posible en el entorno de trabajo y junto a nosotros puedas crecer a un más.
+
+Gracias por elegirnos.
+
+***
+
+
 
 ***
 
@@ -12,9 +20,18 @@ hello
 
 ***
 
-### Integrantes
+### Equipo Directivo
+
+Flor: Recursos Humanos
+
+
 
 ***
 
 ### Horarios
 
+Entendemos que en la vida tienes algo más que hacer a parte de trabajar por eso no te vamos a imponer un horario extricto que debas seguir. Creemos que este dinamismo te ayudará gestionarte mejor y acabar la jornada de trabajo habiendo dado lo mejor de ti.
+
+¡Eso si!, deberás cumplir las horas por día que estipula tu contrato y chequear tu acceso a través de IntraTime.
+
+Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algún cambio en la distribución, contacta con Flor que estará encantada de atenderte.
