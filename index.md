@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![TecnoT8](/assets/images/front.png)
+
 En esta nueva era en la que es imperativo tener un ordenador para poder trabajar, el público generalmente desconoce las especificaciones técnicas que debe tener un dispositivo que se ajuste a sus necesidades y no pague de más por funciones o capacidades que no utilizará en la vida. Al igual, la configuración de los mismos no es tarea fácil.
 
 Desde TecnoT8 queremos llevar nuestros conocimientos en el mundo de la informática a un público no formado con la idea de que puedan disfrutar al máximo de sus ordenadores.
