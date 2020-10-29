@@ -47,7 +47,7 @@ Este es el calendario de vacaciones mayores que recogemos en TecnoT8 sin incluir
 
 ***
 
-### Derechos y Debéres
+### Derechos y Deberes
 
 Como deber de empresario 
 
