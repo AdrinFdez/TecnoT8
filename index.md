@@ -49,7 +49,26 @@ Este es el calendario de vacaciones mayores que recogemos en TecnoT8 sin incluir
 
 ### Derechos y Debéres
 
+Como deber de empresario 
+
+El empresario asume una serie de obligaciones en la relación laboral.
+
 ***
+
+Como deberes de nuestros trabajadores se encuentran: 
+
+- Cumplir con las obligaciones concretas del puesto de trabajo, de conformidad con lo establecido.
+
+- Cumplir las medidas de seguridad e higiene que se adopten y con las medidas de prevención de riesgos laborales por lo que se refiere a las obligaciones de los trabajadores.
+
+- A cumplir las órdenes e instrucciones del empleador, siempre que las órdenes o instrucciones no sean abusivas o ilegítimas.
+
+- No concurrir con la actividad de la empresa sin entrar un perjuicio con la persona del empleador.
+
+- Contribuir a la mejora de la productividad. 
+
+***
+
 
 ### Horarios
 
