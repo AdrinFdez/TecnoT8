@@ -71,6 +71,14 @@ Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algú
 
 ### Instalaciones
 
+Queremos que nuestras oficinas sean un espacio al que quieras venir a trabajar así que buscamos la mayor comodidad posible. Mantenemos una zona de descanso y ocio cerca del lugar de trabajo como motivación y accesibilidad. Puedes mezclar los sabores como más te guste
+
+![Oficina](/assets/images/office.jpeg)
+
+Es verdad que fomentamos el uso del teletrabajo pero debemos tener un sito alternativo al que acudir si es necesario. La comodidad de casa puede resultar contraproducente por eso, tu eliges que entorno te beneficia más y cuando.
+
+![Oficina 2](/assets/images/office2.png)
+
 ***
 
 ### Contacto
