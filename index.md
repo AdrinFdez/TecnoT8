@@ -26,12 +26,17 @@ Gracias por elegirnos.
 
 ### Equipos
 
+- Morante Caraballo, Abel
 
-***
+- Caballero Domínguez, Ángel
 
-#### Recursos Humanos
+- Cadenas Sánchez, María Jesús
 
-Florentina
+- Correa López, Florentina
+
+- Fernández Fernández, Adrián
+
+- Granja Naranjo, Javier
 
 ***
 
