@@ -53,8 +53,6 @@ Como deber de empresario
 
 *   El empresario asume una serie de obligaciones en la relación laboral.
 
-***
-
 Como deberes de nuestros trabajadores se encuentran: 
 
 *   Cumplir con las obligaciones concretas del puesto de trabajo, de conformidad con lo establecido.
