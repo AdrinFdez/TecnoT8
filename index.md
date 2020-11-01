@@ -121,7 +121,7 @@ Si tienes algún problemas respecto a tu ajuste de horas o necesitas hacer algú
 
 ***
 
-### ¿Cómo se realiza el trabajo?
+### ¿Que debo hacer antes de empezar?
 
 La incorporación al puesto de trabajo requiere algunas actividades previas y necesarias:
 
