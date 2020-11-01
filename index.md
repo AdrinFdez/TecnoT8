@@ -2,6 +2,8 @@
 layout: default
 ---
 
+***
+
 
 
 En esta nueva era en la que es imperativo tener un ordenador para poder trabajar, el público generalmente desconoce las especificaciones técnicas que debe tener un dispositivo, para que se ajuste a sus necesidades. Con el añadido de que no pague de más por funciones o capacidades que no utilizará en la vida. Al igual, la configuración de los mismos no es tarea fácil.
